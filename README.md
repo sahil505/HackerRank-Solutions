@@ -8,7 +8,7 @@
 Solutions are coded using C++
 
 * [Algorithms](#algorithms)
-* [Data Structures](#Data_Structures)
+* [Data Structures](#data-structures)
 
 # Algorithms
 
@@ -64,4 +64,4 @@ Solutions are coded using C++
 
 |        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         Arrays         | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)                                                         |   15   | [Solution.cpp]()                          |
+|         Arrays         | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)                                                         |   15   | [Solution.cpp](https://github.com/sahil505/HackerRank-Solutions/blob/master/Data%20Structures/Arrays/Dynamic%20Arrays/Solution.cpp)                          |
