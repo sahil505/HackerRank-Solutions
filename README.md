@@ -8,6 +8,7 @@
 Solutions are coded using C++
 
 * [Algorithms](#algorithms)
+* [Data Structures](#Data_Structures)
 
 # Algorithms
 
@@ -58,3 +59,9 @@ Solutions are coded using C++
 |         Implementation         | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)                                                         |   30   | [Solution.cpp](https://github.com/sahil505/HackerRank-Solutions/blob/master/Algorithms/Implementation/Manasa%20and%20Stones/Solution.cpp)                          |
 |         Implementation         | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)                                                         |   30   | [Solution.cpp](https://github.com/sahil505/HackerRank-Solutions/blob/master/Algorithms/Implementation/Cavity%20Map/Solution.cpp)                          |
 |         Implementation         | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)                                                         |   30   | [Solution.cpp](https://github.com/sahil505/HackerRank-Solutions/blob/master/Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.cpp)                          |
+
+# Data Structures
+
+|        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Arrays         | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)                                                         |   15   | [Solution.cpp]()                          |
